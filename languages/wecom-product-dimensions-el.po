@@ -1,0 +1,159 @@
+# Copyright (C) 2022 wecommerce
+# This file is distributed under the same license as the Wecom Product Dimensions plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: Wecom Product Dimensions 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/wecom-product-"
+"dimensions-main\n"
+"POT-Creation-Date: 2022-09-19T13:55:28+03:00\n"
+"PO-Revision-Date: 2022-09-19 13:59+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: el\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3\n"
+"X-Domain: wecom-product-dimensions\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Plugin Name of the plugin
+msgid "Wecom Product Dimensions"
+msgstr "Wecom Product Dimensions"
+
+#. Description of the plugin
+msgid "Woocommerce products with variable sizes & prices"
+msgstr "Προϊόντα Woocommerce με μεταβλητά μεγέθη & τιμές"
+
+#. Author of the plugin
+msgid "wecommerce"
+msgstr "wecommerce"
+
+#. Author URI of the plugin
+msgid "https://wecommerce.gr"
+msgstr "https://wecommerce.gr"
+
+#: classes/class-frontend.php:81 classes/class-frontend.php:135
+msgid "Price"
+msgstr "Τιμή"
+
+#: classes/class-frontend.php:82 classes/class-frontend.php:136
+msgid "Make your choice"
+msgstr "Επιλέξτε"
+
+#: classes/class-frontend.php:120 classes/class-frontend.php:171
+msgid "Calculated price"
+msgstr "Υπολογισμένη τιμή"
+
+#: classes/class-frontend.php:213 classes/class-frontend.php:234
+#: wecom-product-dimensions.php:153 wecom-product-dimensions.php:165
+#: wecom-product-dimensions.php:180
+msgid "Length"
+msgstr "Μήκος"
+
+#: classes/class-frontend.php:217 classes/class-frontend.php:238
+#: wecom-product-dimensions.php:181
+msgid "Width"
+msgstr "Πλάτος"
+
+#: classes/class-frontend.php:221 classes/class-frontend.php:246
+#: wecom-product-dimensions.php:192
+msgid "Weight"
+msgstr "Βάρος"
+
+#: classes/class-frontend.php:242
+msgid "Dimensions"
+msgstr "Διαστάσεις"
+
+#: wecom-product-dimensions.php:99
+msgid "Fixed Length"
+msgstr "Σταθερό Μήκος"
+
+#: wecom-product-dimensions.php:100
+msgid "Min Length"
+msgstr "Ελάχιστο Μήκος"
+
+#: wecom-product-dimensions.php:101
+msgid "Max Length"
+msgstr "Μέγιστο Μήκος"
+
+#: wecom-product-dimensions.php:103 wecom-product-dimensions.php:166
+msgid "Fixed Width"
+msgstr "Σταθερό Πλάτος"
+
+#: wecom-product-dimensions.php:104
+msgid "Min Width"
+msgstr "Ελάχιστο Πλάτος"
+
+#: wecom-product-dimensions.php:105
+msgid "Max Width"
+msgstr "Μέγιστο Πλάτος"
+
+#: wecom-product-dimensions.php:107 wecom-product-dimensions.php:142
+msgid "Diameter"
+msgstr "Διάμετρος"
+
+#: wecom-product-dimensions.php:108
+msgid "Min Diameter"
+msgstr "Ελάχιστη Διάμετρος"
+
+#: wecom-product-dimensions.php:109
+msgid "Max Diameter"
+msgstr "Μέγιστη Διάμετρος"
+
+#: wecom-product-dimensions.php:111
+msgid "Min Weight"
+msgstr "Ελάχιστο Βάρος"
+
+#: wecom-product-dimensions.php:112
+msgid "Max Weight"
+msgstr "Μέγιστο Βάρος"
+
+#: wecom-product-dimensions.php:114
+msgid "Stepper"
+msgstr "Βήμα"
+
+#: wecom-product-dimensions.php:115
+msgid "Width Stepper"
+msgstr "Βήμα Πλάτους"
+
+#: wecom-product-dimensions.php:116
+msgid "Length Stepper"
+msgstr "Βήμα Μήκους"
+
+#: wecom-product-dimensions.php:117
+msgid "Weight Stepper"
+msgstr "Βήμα Βάρους"
+
+#: wecom-product-dimensions.php:130
+msgid "Select..."
+msgstr "Επιλογή..."
+
+#: wecom-product-dimensions.php:135
+msgid "Circular Area"
+msgstr "Κυκλική Περιοχή"
+
+#: wecom-product-dimensions.php:146
+msgid "Per Meter"
+msgstr "Ανά Μέτρο"
+
+#: wecom-product-dimensions.php:157
+msgid "One fixed Per MeterSQ"
+msgstr "Ανά τετραγωνικό (Μια διάσταση σταθερή)"
+
+#: wecom-product-dimensions.php:170
+msgid "Multi Dimensional"
+msgstr "Πολυδιάστατο"
+
+#: wecom-product-dimensions.php:185
+msgid "By Weight"
+msgstr "Κατά Βάρος"
+
+#~ msgid "Select your desired dimensions"
+#~ msgstr "Επιλέξτε τις επιθυμητές διαστάσεις"
+
+#~ msgid "Width:"
+#~ msgstr "Πλάτος:"
+
+#~ msgid "Fixed length"
+#~ msgstr "Σταθερό μήκος"

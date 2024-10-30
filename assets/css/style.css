@@ -1,0 +1,82 @@
+.addinputs,
+.custom-title {
+	display: grid;
+	grid-template-columns: 127px 40px 127px 40px;
+	text-align: center;
+}
+.custom-title {
+	font-size: 12px;
+	position: relative;
+	color: grey;
+}
+
+.input-group {
+	display: grid;
+	grid-template-columns: 34px 1fr 34px !important;
+}
+
+div.summary input.cp_length,
+div.summary input.cp_width {
+	width: 64px !important;
+	text-align: center;
+}
+
+.wecom-dimension-input-wrapper button {
+	width: 25px;
+	background-color: rgba(0,0,0,0.05);
+	border-radius: 0px;
+	font-size: 16px;
+	display: inline-block;
+	line-height: 44px;
+	color: #444;
+	text-align: center;
+	font-weight: bold;
+	font-size: 1.2em;
+	padding: 0px 0px;
+	border: 0px solid transparent;
+}
+
+.wecom_dimensions {
+	display: none;
+}
+
+.wecom-dimensions-front__inner {
+	display: flex;
+	flex-direction: column;
+	align-items: flex-start;
+}
+
+.wecom-dimensions-front__inner--hidden {
+	display: none;
+}
+
+.wecom_dimension_type {
+	display: none;
+}
+
+
+.wecom-dimension-input-wrapper label {
+	width: 100%;
+	display: inline-block;
+	text-align: center;
+	font-size: 0.8em;
+}
+
+.wecom-dimension-inputs-outer {
+	display: flex;
+	flex-wrap: nowrap;
+	width: 100%;
+	margin: 20px 0;
+}
+
+.wecom-dimension-input-wrapper {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	margin: 0 20px;
+}
+
+.wecom-dimension-input {
+	max-width: 80px;
+}
